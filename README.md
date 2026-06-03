@@ -17,3 +17,9 @@ Analysis of Brazilian E-commerce public dataset from Kaggle to understand custom
  Key Findings
 - Most customers give 5-star reviews
 - Higher priced products tend to get slightly better reviews
+  
+  Visualizations
+
+![Bar Chart](images/Bar Chart.png)
+![Chart](images/Chart.png)
+![Heatmap](images/HEATMAP.png)
