@@ -20,6 +20,6 @@ Analysis of Brazilian E-commerce public dataset from Kaggle to understand custom
   
   Visualizations
 
-![Bar Chart](images/Bar20%Chart.png)
+![Bar Chart](images/Bar%20Chart.png)
 ![Chart](images/Chart.png)
 ![Heatmap](images/HEATMAP.png)
